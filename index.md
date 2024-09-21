@@ -1,4 +1,8 @@
-Club de Excéntricos Comedores de Bistecs
+### Eventos
 
-#### **Eventos privados:**
-- Próximamente.
+- Próximos:
+  - TBD.
+
+- Pasados:
+  - TBD.
+  - TBD.
