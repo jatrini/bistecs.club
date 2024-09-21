@@ -6,16 +6,30 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="/assets/css/main.css">
+    <link rel="stylesheet" href="/assets/css/reset.css">
+    <link rel="stylesheet" href="/assets/css/index.css">
     <link rel="icon" type="image/png" href="/images/favicon.ico">
     <script defer src="https://analytics.eu.umami.is/script.js" data-website-id="2f7046f0-718f-469f-9b53-df820812051a"></script>
   </head>
   <body>
-    <div class="container">
-    <h1><a href="/">{{ site.title }}</a></h1>
+    <div class="container">  
+    <table class="header">
+    <tr>
+      <td colspan="2" rowspan="2" class="width-auto">
+        <h1 class="title">{{ site.title }}</h1>
+        <span class="subtitle">Club de excéntricos comedores de bistecs</span>
+      </td>
+      <th>Version</th>
+      <td class="width-min">v0.1</td>
+    </tr>
+    <tr>
+      <th>Actualización</th>
+      <td class="width-min"><time style="white-space: pre;">SEP 2024</time></td>
+    </tr>  
+    <br>    
     {{content}}
     <br>
-    <p>2024, Contacta conmigo en <a href = "mailto:jose@bistecs.club">jose@bistecs.club</a>.</p>
+    <p>2024, Contacta conmigo en ❤️ <a href = "mailto:jose@bistecs.club">jose@bistecs.club</a>.</p>
     </div>
   </body>
 </html>
