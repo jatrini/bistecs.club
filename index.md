@@ -1,8 +1,8 @@
 ### Eventos
 
-- Próximos:
-  - TBD.
+- Actual:
+  - 19/DIC/2025: Cumpleaños de Nacho.
 
-- Pasados:
+- Otros:
   - TBD.
   - TBD.
